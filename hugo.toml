@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://example.com"
+baseURL = "https://my.breadbutterbakery.com"
 languageCode = "en-US"
 title = "My Bread and Butter Bakery"
 theme = "hugo-split-theme"
