@@ -35,7 +35,7 @@ copyright = "&copy;2024 Yung Her Liew"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/bakery.jpg"
+      file = "images/front.jpg"
       position = "center center"
 
     # Video
